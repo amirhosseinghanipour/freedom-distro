@@ -1,0 +1,16 @@
+{
+  "profile": "minimal",
+  "disk_config": {
+    "layout": {
+      "type": "manual",
+      "partitions": []
+    }
+  },
+  "packages": [
+    "linux",
+    "linux-firmware",
+    "grub",
+    "networkmanager"
+  ],
+  "init_system": ""
+}

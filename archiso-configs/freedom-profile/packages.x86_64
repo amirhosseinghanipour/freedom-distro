@@ -1,0 +1,15 @@
+base
+linux
+linux-firmware
+grub
+networkmanager
+vim
+nano
+sudo
+git
+openssh
+archinstall
+openrc
+runit
+openrc-settingsd
+runit-service
